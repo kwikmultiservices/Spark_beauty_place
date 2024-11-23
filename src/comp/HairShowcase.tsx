@@ -41,7 +41,7 @@ const HairShowcase: React.FC = () => {
         </div>
         <div className="col-span-2 bg-brown-100 bg-[#D6CDC6] text-white p-6 flex flex-col justify-center items-start">
           <h3 className="text-xl font-bold mb-2">Sign-UP to Our Newsletter for daily updates & trends</h3>
-          <p className="text-lg border border-white">@babbly.ng</p>
+         
         </div>
       </div>
     </div>
