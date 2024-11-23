@@ -47,19 +47,25 @@ const OurStorySection: React.FC = () => {
             </li>
             <li className="flex items-center text-[0.9rem]">
               <CiCircleInfo className="text-xl mr-2" />
-              Double drawn hairs
+              Single Double Drawn Hairs 
             </li>
             <li className="flex items-center text-[0.9rem]">
               <CiCircleInfo className="text-xl mr-2" />
-              Double drawn hairs
+              Affordable Hairs
+            </li>
+
+            <li className="flex items-center text-[0.9rem]">
+              <CiCircleInfo className="text-xl mr-2" />
+              Make-up Kits 
+            </li>
+
+            <li className="flex items-center text-[0.9rem]">
+              <CiCircleInfo className="text-xl mr-2" />
+              Lots More
             </li>
           </ul>
 
-          <div className="mt-6">
-            <p className="font-semibold">Founder</p>
-            <p className="">Lorem ipsum</p>
-          </div>
-        </div>
+              </div>
       </div>
     </div>
   );

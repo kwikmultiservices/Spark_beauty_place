@@ -174,7 +174,7 @@ const Footer: React.FC = () => {
     </div>
 
 <div className="bg-[#95725A] text-black text-center p-4">
-@2008 De Capitol.. All rights Reserved.
+ All rights Reserved.
 </div>
    </div>
   );

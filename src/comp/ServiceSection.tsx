@@ -58,8 +58,7 @@ const ImageCarousel: React.FC = () => {
           ))}
         </div>
         <p className="text-gray-700 mt-2">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi.
-          Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla.
+        Beauty and Sleek is your one stop shop for Affordable Quality Hairs and Make up Kits. Try Us Today!
         </p>
       </div>
 
